@@ -1,113 +1,133 @@
-🌊🎨 CALL FOR ENTRIES | LOGO DESIGN CONTEST 🎨🌊
-SIETE PECADOS MARINE PARK
-
-For decades, Siete Pecados Marine Park has stood as a symbol of marine conservation in Coron, Palawan. Now, it’s time to give it an official identity—and YOU can be part of history, and get a chance to win ₱10,000.00!
-
-We invite the people of Coron, Palawan—individuals and organizations—to design the official logo of Siete Pecados Marine Park.
-
-⸻
-
-📌 CONTEST MECHANICS & GUIDELINES
-
-🔹 Who can join?
-✔ Open to all residents of Coron, Palawan
-✔ Individual or organization entries are allowed
-
-🔹 Submission Requirements:
-📎 Logo design (original and unpublished)
-📎 Originally drawn in digital format (hand drawn is accepted)
-📎 Short concept explanation
-📎 Proof of Identity or Residency (for individuals)
-📎 Certification as Coron-based Organization or Institution (for organizations)
-
-🔹 File Format:
-🖼 JPEG | PNG | PDF only
-
-🔹 How to Submit:
-📧 Email your entry to:
-➡ sktagumpay.coron@gmail.com
-📧 CC to:
-➡ barangaytagumpaycoronpalawan01@gmail.com
-
-📝 Email Subject Format:
-Siete Pecados Logo Design Contest – [Name of Sender] – [Cellphone Number]
-
-Body: Essay explaining the logo with a minimum of 100 words and maximum of 150 words.
-
-Attached the logo in prescribed format and proof of residency or identification.
-
-Design Guidelines
-	•	The logo must represent:
-	•	Marine biodiversity and conservation
-	•	Siete Pecados Marine Park as a protected area
-	•	Community stewardship and sustainability
-	•	Design must be adaptable for:
-	•	Print and digital use
-	•	Signages, uniforms, souvenirs, and official materials
-	•	Entries must include:
-	•	Logo design
-	
-⸻
-
-📅 IMPORTANT DATES
-
-🗓 Submission Period:
-📌 January 12 to February 8, 2026 | 11:59 PM
-
-🗳 Online Voting Period
-❤️ 👍 🤍 🔁 (Heart, Like, Care & Shares)
-📌 February 9 to February 12, 2026
-
-🏆 Announcement of Winner:
-📌 February 13, 2026
-
-🎉 Awarding Ceremony:
-📌 February 15, 2026
-📍 During the Foundation Day of Siete Pecados Marine Park
-
-⸻
-
-⚖️ JUDGING SYSTEM
-
-Each logo entry will be evaluated by the panel of judges based on the following criteria:
-
-🌊 1. Relevance to Siete Pecados Marine Park (30%)
-
-The logo must clearly reflect the identity of Siete Pecados Marine Park—its marine biodiversity, conservation purpose, protected status, and historical significance. Designs should communicate a strong connection to the marine environment and environmental stewardship.
-
-🎨 2. Creativity and Originality (20%)
-
-The design must be unique, imaginative, and original. It should not copy or closely resemble existing logos or artworks. Judges will look for fresh ideas that creatively express the essence of Siete Pecados.
-
-👁 3. Visual Impact and Design Quality (20%)
-
-The logo should be visually appealing, well-balanced, and easy to recognize. Proper use of colors, shapes, typography, and overall composition will be considered, ensuring the logo remains clear even at small or large sizes.
-
-🔄 4. Adaptability and Practical Use (20%)
-
-The logo must be versatile and functional for different applications such as signages, uniforms, documents, social media, souvenirs, and promotional materials. It should remain effective in both colored and black-and-white formats.
-
-📝 5. Concept Explanation (10%)
-
-The submitted concept description should clearly explain the meaning, symbols, and inspiration behind the design. A strong concept helps judges understand how the logo represents Siete Pecados Marine Park.
-
-⸻
-
-📊 FINAL SCORING SYSTEM
-	•	60% – Judges’ Evaluation (based on the criteria above)
-	•	40% – Online Public Voting (Heart, Like, Care, and Shares)
-
-💰 Grand Prize: ₱10,000.00
-🏅 Winning entry will be adopted as the Official Logo of Siete Pecados Marine Park
-
-⸻
-
-🌱 Let your creativity speak for conservation.
-🌊 Be part of Siete Pecados’ legacy.
-🎨 Design. Protect. Inspire.
-
-#SietePecadosMarinePark
-#LogoDesignContest
-#PeopleOfCoron
-#MarineConservation
-#FoundationDay2026
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Logo Design Contest - Siete Pecados Marine Park</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0; padding: 0;
+            background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+        }
+        .container {
+            max-width: 900px;
+            background: rgba(0, 51, 102, 0.85);
+            margin: 2rem auto;
+            padding: 20px 30px;
+            border-radius: 15px;
+        }
+        h1, h2 {
+            color: #ffdd00;
+            text-align: center;
+            margin-bottom: 0.4rem;
+        }
+        h1 {
+            font-size: 2.8rem;
+            margin-top: 0;
+            letter-spacing: 3px;
+            text-shadow: 2px 2px #006699;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+        }
+        p, li {
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        ul li {
+            padding: 0.5rem 0;
+            position: relative;
+        }
+        ul li:before {
+            content: "✓";
+            color: #00ff66;
+            font-weight: bold;
+            margin-right: 0.8rem;
+            position: absolute;
+            left: 0;
+            top: 0.3rem;
+        }
+        .highlight {
+            color: #ffdd00;
+            font-weight: bold;
+        }
+        .important-dates {
+            background-color: #004466;
+            padding: 15px;
+            border-radius: 12px;
+            margin-top: 1rem;
+        }
+        .important-dates div {
+            margin-bottom: 1rem;
+        }
+        .grand-prize {
+            background-color: #ffdd00;
+            color: #004466;
+            font-weight: bold;
+            font-size: 1.5rem;
+            text-align: center;
+            padding: 15px;
+            border-radius: 12px;
+            margin: 20px 0;
+            box-shadow: 0 0 12px #ffdd00;
+        }
+        a {
+            color: #00ccff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 2rem;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Logo Design Contest</h1>
+        <h2>Siete Pecados Marine Park</h2>
+        <div class="grand-prize">₱10,000 GRAND PRIZE!</div>
+        <p>Winning logo will be adopted as the <span class="highlight">OFFICIAL LOGO</span> of Siete Pecados Marine Park.</p>
+        <h2>Contest Mechanics & Guidelines</h2>
+        <ul>
+            <li><span class="highlight">Who Can Join?</span> Open to <strong>ALL RESIDENTS OF CORON, PALAWAN</strong> – individuals or organizations.</li>
+            <li><span class="highlight">Submission Requirements:</span>
+                <ul>
+                    <li>Original logo design</li>
+                    <li>Short concept explanation</li>
+                    <li><strong>Proof of residency</strong> (for individuals)</li>
+                    <li><strong>Certification as Coron-based organization</strong> (for organizations)</li>
+                </ul>
+            </li>
+        </ul>
+        <h2>How to Submit</h2>
+        <p>Submit your logo design in <strong>JPEG, PNG, or PDF</strong> format only.</p>
+        <p>Email to: <a href="mailto:sktagumpay.coron@gmail.com">sktagumpay.coron@gmail.com</a></p>
+        <p>CC: barangay.tagumpaycorongalawan1@gmail.com</p>
+        <p><em>Subject: Siete Pecados Logo Design Contest — [Sender's Name] — [Celphone Number]</em></p>
+        <h2>Important Dates</h2>
+        <div class="important-dates">
+            <div><strong>Submission Period:</strong> Jan 12 to Feb 8, 2026 | 11:59 PM</div>
+            <div><strong>Online Voting Period:</strong> Feb 9, 2026 to Feb 12, 2026</div>
+            <div><strong>Announcement of Winner:</strong> February 13, 2026</div>
+            <div><strong>Awarding Ceremony:</strong> February 15, 2026</div>
+        </div>
+        <h2>Judging System</h2>
+        <p>40% Online Votes</p>
+        <div class="footer">
+            <p>#SietePecadosMarinePark | #LogoDesignContest | #PeopleOfCoron</p>
+        </div>
+    </div>
+</body>
+</html>
